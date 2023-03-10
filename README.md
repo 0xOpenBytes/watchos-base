@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://openbytes.dev/assets/projects/images/watchos-base-icon.png" alt="Icon representing the OpenBytes watchOS-base template project." width="35%"/>
+  <img src="https://openbytes.dev/assets/projects/images/ios-base-icon.png" alt="Icon representing the OpenBytes watchOS-base template project." width="35%"/>
   <h1>watchOS-Base</h1>
   <h3>The OpenBytes template for watchOS projects using SwiftUI</h3>
   <a href="https://github.com/0xOpenBytes/watchos-base/blob/main/LICENSE">
