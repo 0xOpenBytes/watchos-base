@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://openbytes.dev/assets/projects/images/ios-base-icon.png" alt="Icon representing the OpenBytes iOS-base template project." width="35%"/>
-  <h1>iOS-Base</h1>
-  <h3>The OpenBytes template for iOS projects using SwiftUI</h3>
-  <a href="https://github.com/0xOpenBytes/ios-base/blob/main/LICENSE">
+  <img src="https://openbytes.dev/assets/projects/images/watchos-base-icon.png" alt="Icon representing the OpenBytes watchOS-base template project." width="35%"/>
+  <h1>watchOS-Base</h1>
+  <h3>The OpenBytes template for watchOS projects using SwiftUI</h3>
+  <a href="https://github.com/0xOpenBytes/watchos-base/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"/>
   </a>
-  <img src="https://img.shields.io/github/v/release/0xOpenBytes/ios-base"/>
+  <img src="https://img.shields.io/github/v/release/0xOpenBytes/watchos-base"/>
   <a href="https://discord.gg/HUmaDXVsW7">
     <img src="https://img.shields.io/discord/933406727150391376" alt="Community Chat"/>
   </a>
-  <img src="https://img.shields.io/badge/iOS-16%2B-informational" alt="iOS Version"/>
+  <img src="https://img.shields.io/badge/watchOS-16%2B-informational" alt="watchOS Version"/>
 </div>
 
 ## Project
