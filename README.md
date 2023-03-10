@@ -9,7 +9,7 @@
   <a href="https://discord.gg/HUmaDXVsW7">
     <img src="https://img.shields.io/discord/933406727150391376" alt="Community Chat"/>
   </a>
-  <img src="https://img.shields.io/badge/watchOS-16%2B-informational" alt="watchOS Version"/>
+  <img src="https://img.shields.io/badge/watchOS-9.0%2B-informational" alt="watchOS Version"/>
 </div>
 
 ## Project
