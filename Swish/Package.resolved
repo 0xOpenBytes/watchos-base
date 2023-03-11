@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "disk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/Disk.git",
+      "state" : {
+        "revision" : "7804456d7e02221ac21c755c22c735fc0dd43f81",
+        "version" : "0.1.0"
+      }
+    },
+    {
       "identity" : "fork",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/0xLeif/Fork.git",
@@ -14,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/0xOpenBytes/o",
       "state" : {
-        "revision" : "ff49e4ab5aa8da9fbae26242aec49faeed438cf4",
-        "version" : "2.0.0"
+        "revision" : "3e83362434c82f318a8d72e0d3b0786ffb3ba640",
+        "version" : "2.1.0"
       }
     },
     {
