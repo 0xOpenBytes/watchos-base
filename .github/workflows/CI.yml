@@ -32,6 +32,4 @@ jobs:
           xcodebuild test -project base.xcodeproj -scheme base clean
           build -sdk watchos -destination "platform=watchOS
           Simulator,OS=9.1,name=Apple Watch Ultra (49mm)" CODE_SIGNING_ALLOWED=No
-      - name: Screenshots
-        run: swish screenshots
 # yamllint enable rule:line-length
