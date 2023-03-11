@@ -21,7 +21,7 @@ public struct Screenshots {
     try clearDirectories()
     try take()
     
-    try applyMask(for: .proMax)
+    try applyMask(for: .ultra)
   }
   
   func applyMask(for device: Device) throws {
